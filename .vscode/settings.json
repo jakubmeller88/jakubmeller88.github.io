@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/4512832c-9072-4a24-a5dc-241607546d1e/resourceGroups/jakub/providers/Microsoft.Web/sites/jakub88",
+    "appService.deploySubpath": ""
+}
